@@ -1,4 +1,4 @@
-texto=input("Tu texto: ")
+texto=input("su texto que quiere agregar: ")
 if texto== texto.upper():
     abc="ABCDEFGHIJKLMNOPQRSTVXYZ"
 else:
