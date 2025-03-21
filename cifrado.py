@@ -1,4 +1,4 @@
-texto=input("su texto que quiere agregar: ")
+texto=input("El texto que desee añadir para impresión: ")
 if texto== texto.upper():
     abc="ABCDEFGHIJKLMNOPQRSTVXYZ"
 else:
